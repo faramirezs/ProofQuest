@@ -2,6 +2,17 @@
 
 A Telegram Mini App that enables users to complete brand challenges by submitting photo proofs of products in stores. The application integrates with TON Connect for wallet functionality and uses AI-powered verification for submissions.
 
+## Second Place Winner - TON x 42 Berlin November 2025 Hackathon
+
+We are proud to announce that ProofQuest won **2nd place** at the [TON x 42 Berlin Hackathon](https://www.linkedin.com/posts/ton-europe-hub_ton-x-42-berlin-hackathon-day-2-recap-activity-7392596683915919360-Lvjy?utm_source=share&utm_medium=member_desktop)!
+
+### Team Members
+
+- **Eduardo** - [GitHub](https://github.com/educhigon)
+- **Alicia** - [GitHub](https://github.com/maimbet)
+- **Tanmay** - [GitHub](https://github.com/tpandya42)
+- **Alejo** - [GitHub](https://github.com/faramirezs)
+
 ## Demo video (click to reproduce)
 
 [![Video Demo](https://img.youtube.com/vi/nMve70RHvBc/maxresdefault.jpg)](https://youtube.com/shorts/nMve70RHvBc?si=u6wHI2cOVMMI_p9-)
