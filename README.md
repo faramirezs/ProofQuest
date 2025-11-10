@@ -2,6 +2,8 @@
 
 A Telegram Mini App that enables users to complete brand challenges by submitting photo proofs of products in stores. The application integrates with TON Connect for wallet functionality and uses AI-powered verification for submissions.
 
+## Demo video (click to reproduce)
+
 [![Video Demo](https://img.youtube.com/vi/nMve70RHvBc/maxresdefault.jpg)](https://youtube.com/shorts/nMve70RHvBc?si=u6wHI2cOVMMI_p9-)
 
 
