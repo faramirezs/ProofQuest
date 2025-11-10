@@ -7,6 +7,20 @@ A Telegram Mini App that enables users to complete brand challenges by submittin
 [![Video Demo](https://img.youtube.com/vi/nMve70RHvBc/maxresdefault.jpg)](https://youtube.com/shorts/nMve70RHvBc?si=u6wHI2cOVMMI_p9-)
 
 
+## Application Screenshots
+
+<p align="center">
+  <img src="./media/app_home.jpg" alt="Home" width="30%">
+  <img src="./media/submission.png" alt="Submission" width="30%">
+  <img src="./media/challenges.png" alt="Challenges" width="30%">
+</p>
+
+<p align="center">
+  <img src="./media/ai_verification.jpg" alt="ai verification" width="30%">
+  <img src="./media/test_img.jpg" alt="Testing" width="30%">
+  <img src="./media/profile.png" alt="Profile" width="30%">
+</p>
+
 ## Overview
 
 ProofQuest is a full-stack web application designed for the Telegram ecosystem. Users can browse active brand challenges, submit photos as proof of completion, and connect their TON wallet to manage rewards. The platform features AI-powered image verification to ensure submission authenticity.
