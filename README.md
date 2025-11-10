@@ -2,6 +2,8 @@
 
 A Telegram Mini App that enables users to complete brand challenges by submitting photo proofs of products in stores. The application integrates with TON Connect for wallet functionality and uses AI-powered verification for submissions.
 
+![Video demo](https://www.youtube.com/shorts/nMve70RHvBc)
+
 ## Overview
 
 ProofQuest is a full-stack web application designed for the Telegram ecosystem. Users can browse active brand challenges, submit photos as proof of completion, and connect their TON wallet to manage rewards. The platform features AI-powered image verification to ensure submission authenticity.
@@ -66,6 +68,7 @@ ProofQuest/
 │   └── backend/         # API integration layer
 └── README.md            # This file
 ```
+
 
 ## Quick Start
 
@@ -150,6 +153,9 @@ Users can submit one photo per challenge. Submissions are processed through AI v
 AI-powered verification uses Google's Gemini model to analyze submission photos against challenge requirements. The system logs verification attempts, results, and performance metrics.
 
 ## API Endpoints
+
+When server is running, interactive docs can be accesible from `/docs`:
+![API Documentation](/media/api_docs.png)
 
 ### Health & Info
 - `GET /` - API information
